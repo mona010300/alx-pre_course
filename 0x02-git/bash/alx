@@ -1,4 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo"ALX School"
 echo"ALX School is so cool!"
 
+||||||| constructed merge base
+echo"ALX"
+=======
+echo"ALX School"
+>>>>>>> My personal work
