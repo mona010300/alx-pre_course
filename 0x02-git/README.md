@@ -1,1 +1,1 @@
-this is my second readme
+This file is mandatory in all ALX School projects.
