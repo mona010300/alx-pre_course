@@ -1,10 +1,29 @@
+<<<<<<< HEAD
 #!/bin/bash
 <<<<<<< HEAD
 echo"ALX School"
+||||||| constructed merge base
+#!/bin/bash
+<<<<<<< HEAD
+=======
+#!/bin/bash 
+HEAD
+>>>>>>> update
 echo"ALX School is so cool!"
+<<<<<<< HEAD
 
 ||||||| constructed merge base
 echo"ALX"
 =======
+||||||| constructed merge base
+=======
+=======
+>>>>>>> update
 echo"ALX School"
+<<<<<<< HEAD
 >>>>>>> My personal work
+||||||| constructed merge base
+>>>>>>> b0e9215d6acb5f106920ceaa87c1acff45220b20
+=======
+b0e9215d6acb5f106920ceaa87c1acff45220b20
+>>>>>>> update
